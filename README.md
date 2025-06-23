@@ -1,9 +1,3 @@
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
-
 # ourAMSTERcaps 2025
 
 ourAMSTERcaps -- our Amsterdam Conference on Automated Planning and Scheduling
@@ -17,8 +11,11 @@ The first edition was held in Saarbrücken in 2022.
 OURcaps 2025 will be hosted in Amsterdam, The Netherlands.
 Our sessions are held in [LAB42](https://lab42.uva.nl/).
 
-## Timetable
+## Organisers
+<a href="mailto:g.behnke@uva.nl">Gregor Behnke, UvA</a> (Local Organiser), Daniel Fišer (Aalborg), Malte Helmert (Basel), Jörg Hoffmann (Saarbrücken), Jendrik Seipp (Linköping), Álvaro Torralba (Aalborg)
 
+
+## Timetable
 
 <table>
   <tr>
@@ -226,5 +223,4 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
 </table>
 
 
-## Organisers
-<a href="mailto:g.behnke@uva.nl">Gregor Behnke, UvA</a> (Local Organiser), Daniel Fišer (Aalborg), Malte Helmert (Basel), Jörg Hoffmann (Saarbrücken), Jendrik Seipp (Linköping), Álvaro Torralba (Aalborg)
+

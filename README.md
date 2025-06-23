@@ -213,7 +213,7 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
-    <td rowspan="1">11:45-13:13</td>
+    <td rowspan="1">11:45-13:15</td>
     <td rowspan="1">TBA</td>
     <td></td>
     <td> </td>

@@ -4,13 +4,14 @@ table, th, td {
 }
 </style>
 
-# OURcaps 2025
+# ourAMSTERcaps 2025
 
-OURcaps -- OUR Conference on Automated Planning and Scheduling
+ourAMSTERcaps -- our Amsterdam Conference on Automated Planning and Scheduling
 
-OURcaps is a european research meeting focussed on automated planning and scheduling.
-At OURcaps, we discuss the newest research developements and develop new and exciting ideas for the future.
-The first edition of OURcaps was held in Saarbrücken in 2022.
+ourAMSTERcaps is a european research meeting focussed on automated planning and scheduling.
+At ourAMSTERcaps, we discuss the newest research developements and develop new and exciting ideas for the future.
+This is the second edition of this event.
+The first edition was held in Saarbrücken in 2022.
 
 ## Location
 OURcaps 2025 will be hosted in Amsterdam, The Netherlands.

@@ -220,6 +220,3 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td colspan="3">Lunch Break</td>
     <td>Cafe Neo</td>
   </tr>
-
-
-

@@ -168,11 +168,11 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Cafe Neo</td>
   </tr>
   <tr>
-    <td rowspan="3">14:15-15:45</td>
-    <td rowspan="3">ML and LLMs in Planning</td>
+    <td rowspan="4">14:15-15:45</td>
+    <td rowspan="4">ML and LLMs in Planning</td>
     <td>Transformers for Planning</td>
     <td>Nicola Müller (15 min)</td>
-    <td rowspan="3">LAB42, L3.36</td>
+    <td rowspan="4">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>Language interaction with planning based agent</td>
@@ -183,15 +183,19 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Jörg Hoffmann (15 min)</td>
   </tr>
   <tr>
+    <td>Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs</td>
+    <td>Rebecca Eifler (15 min)</td>
+  </tr>
+  <tr>
     <td>15:45-16:15</td>
     <td colspan="3">Coffee Break</td>
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
     <td rowspan="1">16:15-17:45</td>
-    <td rowspan="1">TBA</td>
-    <td></td>
-    <td> </td>
+    <td rowspan="1">Other Topics</td>
+    <td>Explainable Planning</td>
+    <td>Daniel Gnad (30 min) </td>
     <td rowspan="1">LAB42, L3.36</td>
   </tr>
   <tr>

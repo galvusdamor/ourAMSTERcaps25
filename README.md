@@ -26,7 +26,7 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <th>Location</th>
   </tr>
   <tr>
-    <td colspan="5"><b>Wednesday July 16</b></td>
+    <td colspan="5"><strong>Wednesday July 16</strong></td>
   </tr>
   <tr>
     <td>9:14-9:45</td>
@@ -121,7 +121,7 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Gregor Behnke (20 min)</td>
   </tr>
   <tr>
-    <td colspan="5"><b>Thursday July 17</b></td>
+    <td colspan="5"><strong>Thursday July 17</strong></td>
   </tr>
   <tr>
     <td rowspan="4">9:30-11:15</td>
@@ -168,15 +168,19 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Cafe Neo</td>
   </tr>
   <tr>
-    <td rowspan="4">14:15-15:45</td>
-    <td rowspan="4">ML and LLMs in Planning</td>
+    <td rowspan="5">14:15-15:45</td>
+    <td rowspan="5">ML and LLMs in Planning</td>
     <td>Transformers for Planning</td>
     <td>Nicola Müller (15 min)</td>
-    <td rowspan="4">LAB42, L3.36</td>
+    <td rowspan="5">LAB42, L3.36</td>
   </tr>
   <tr>
-    <td>Language interaction with planning based agent</td>
-    <td>Martin Funkquist (15 min)</td>
+    <td>Symmetry Aware Transformer Training for Automated Planning</td>
+    <td>Markus Fritzsche (20 min)</td>
+  </tr>
+  <tr>
+    <td>LLM-Generated Heuristics for Classical Planning</td>
+    <td>Jendrik Seipp (15 min)</td>
   </tr>
   <tr>
     <td>Using LLMs to generate per-domain policies and a verification feedback loop</td>
@@ -192,14 +196,18 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
-    <td rowspan="1">16:15-17:45</td>
-    <td rowspan="1">Other Topics</td>
-    <td>Explainable Planning</td>
-    <td>Daniel Gnad (30 min) </td>
-    <td rowspan="1">LAB42, L3.36</td>
+    <td rowspan="2">16:15-17:45</td>
+    <td rowspan="2">Other Topics</td>
+    <td>Language interaction with planning based agent</td>
+    <td>Martin Funkquist (15 min)</td>
+    <td rowspan="2">LAB42, L3.36</td>
   </tr>
   <tr>
-    <td colspan="5"><b>Friday July 18</b></td>
+    <td>Explainable Planning</td>
+    <td>Daniel Gnad (30 min) </td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>Friday July 18</strong></td>
   <tr>
     <td rowspan="1">9:30-11:15</td>
     <td rowspan="1">Tools</td>

@@ -124,11 +124,15 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td colspan="5"><strong>Thursday July 17</strong></td>
   </tr>
   <tr>
-    <td rowspan="4">9:30-11:15</td>
-    <td rowspan="4">Policy-based Planning</td>
+    <td rowspan="5">9:30-11:15</td>
+    <td rowspan="5">Policy-based Planning</td>
     <td>Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior</td>
+    <td>Timo Gros (15 min) </td>
+    <td rowspan="5">LAB42, L3.36</td>
+  </tr>
+  <tr>
+    <td>About the Challenges of Per-Domain Generalization</td>
     <td>Nicola Müller (15 min) </td>
-    <td rowspan="4">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training</td>

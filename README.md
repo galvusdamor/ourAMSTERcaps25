@@ -54,11 +54,15 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
-    <td rowspan="3">11:45-13:15</td>
-    <td rowspan="3">Heuristics for Classical Planning II</td>
+    <td rowspan="4">11:45-13:15</td>
+    <td rowspan="4">Heuristics for Classical Planning II</td>
+    <td>Tree Compression for States in Scorpion/Mimir</td>
+    <td>Oliver Joergensen (20 min)</td>
+    <td rowspan="4">LAB42, L3.36</td>
+  </tr>
+  <tr>
     <td>Potential Heuristics: Weakening Consistency Constraints</td>
     <td>Pascal Lauer (20 min)</td>
-    <td rowspan="3">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>Cost Partitioning over Label-fragments</td>
@@ -200,11 +204,15 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
-    <td rowspan="2">16:15-17:45</td>
-    <td rowspan="2">Other Topics</td>
+    <td rowspan="3">16:15-17:45</td>
+    <td rowspan="3">Other Topics</td>
     <td>Language interaction with planning based agent</td>
     <td>Martin Funkquist (15 min)</td>
-    <td rowspan="2">LAB42, L3.36</td>
+    <td rowspan="3">LAB42, L3.36</td>
+  </tr>
+  <tr>
+    <td>Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning</td>
+    <td>Maurice Dekker (15 min) </td>
   </tr>
   <tr>
     <td>Explainable Planning</td>

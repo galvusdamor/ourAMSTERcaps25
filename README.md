@@ -195,8 +195,8 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Jörg Hoffmann (15 min)</td>
   </tr>
   <tr>
-    <td>Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs</td>
-    <td>Rebecca Eifler (15 min)</td>
+    <td>Language interaction with planning based agent</td>
+    <td>Martin Funkquist (15 min)</td>
   </tr>
   <tr>
     <td>15:45-16:15</td>
@@ -204,15 +204,11 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
-    <td rowspan="3">16:15-17:45</td>
-    <td rowspan="3">Other Topics</td>
-    <td>Language interaction with planning based agent</td>
-    <td>Martin Funkquist (15 min)</td>
-    <td rowspan="3">LAB42, L3.36</td>
-  </tr>
-  <tr>
+    <td rowspan="2">16:15-17:45</td>
+    <td rowspan="2">Other Topics</td>
     <td>Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning</td>
-    <td>Maurice Dekker (15 min) </td>
+    <td>Maurice Dekker (15 min)</td>
+    <td rowspan="2">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>Explainable Planning</td>

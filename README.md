@@ -158,16 +158,16 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
   <tr>
     <td rowspan="3">11:45-13:15</td>
     <td rowspan="3">Stochastic Shortest Path</td>
-    <td>Finding Policies for Stochastic Shortest Path Problems via Plans and Cycles</td>
-    <td>Johannes Schmalz (15 min) </td>
+    <td>The Stochastic-Shortest Path Problem Zoo</td>
+    <td>Thorsten Klößner (30 min) </td>
     <td rowspan="3">LAB42, L3.36</td>
   </tr>
   <tr>
-    <td>Transformations over Probabilistic Transition Systems</td>
-    <td>Thorsten Klößner (30 min) </td>
+    <td>Finding Policies for Stochastic Shortest Path Problems via Plans and Cycles</td>
+    <td>Johannes Schmalz (15 min) </td>
   </tr>
   <tr>
-    <td>The Stochastic-Shortest Path Problem Zoo</td>
+    <td>Transformations over Probabilistic Transition Systems</td>
     <td>Thorsten Klößner (30 min) </td>
   </tr>
   <tr>

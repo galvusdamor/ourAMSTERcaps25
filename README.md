@@ -157,7 +157,7 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
   </tr>
   <tr>
     <td rowspan="3">11:45-13:15</td>
-    <td rowspan="3">Stochastic Shortest Path</td>
+    <td rowspan="3">Stochastic Shortest Path Problems</td>
     <td>The Stochastic-Shortest Path Problem Zoo</td>
     <td>Thorsten Klößner (30 min) </td>
     <td rowspan="3">LAB42, L3.36</td>

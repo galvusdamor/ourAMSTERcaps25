@@ -176,15 +176,11 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Cafe Neo</td>
   </tr>
   <tr>
-    <td rowspan="5">14:15-15:45</td>
-    <td rowspan="5">ML and LLMs in Planning</td>
-    <td>Transformers for Planning</td>
-    <td>Nicola Müller (15 min)</td>
-    <td rowspan="5">LAB42, L3.36</td>
-  </tr>
-  <tr>
+    <td rowspan="4">14:15-15:45</td>
+    <td rowspan="4">ML and LLMs in Planning</td>
     <td>Symmetry Aware Transformer Training for Automated Planning</td>
     <td>Markus Fritzsche (20 min)</td>
+    <td rowspan="4">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>LLM-Generated Heuristics for Classical Planning</td>

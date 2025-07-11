@@ -143,7 +143,7 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Jan Eisenhut (15 min) </td>
   </tr>
   <tr>
-    <td>Retraining feed forward action policy networks with guarantees</td>
+    <td>Retraining Learned Action Policies</td>
     <td>Chaahat Jain (15 min) </td>
   </tr>
   <tr>

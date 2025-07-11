@@ -157,17 +157,17 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
   </tr>
   <tr>
     <td rowspan="3">11:45-13:15</td>
-    <td rowspan="3">Stochastic Shortest Path</td>
-    <td>Finding Policies for Stochastic Shortest Path Problems via Plans and Cycles</td>
-    <td>Johannes Schmalz (15 min) </td>
+    <td rowspan="3">Stochastic Shortest Path Problems</td>
+    <td>The Stochastic-Shortest Path Problem Zoo</td>
+    <td>Thorsten Klößner (30 min) </td>
     <td rowspan="3">LAB42, L3.36</td>
   </tr>
   <tr>
-    <td>Transformations over Probabilistic Transition Systems</td>
-    <td>Thorsten Klößner (30 min) </td>
+    <td>Finding Policies for Stochastic Shortest Path Problems via Plans and Cycles</td>
+    <td>Johannes Schmalz (15 min) </td>
   </tr>
   <tr>
-    <td>The Stochastic-Shortest Path Problem Zoo</td>
+    <td>Transformations over Probabilistic Transition Systems</td>
     <td>Thorsten Klößner (30 min) </td>
   </tr>
   <tr>
@@ -176,15 +176,11 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Cafe Neo</td>
   </tr>
   <tr>
-    <td rowspan="5">14:15-15:45</td>
-    <td rowspan="5">ML and LLMs in Planning</td>
-    <td>Transformers for Planning</td>
-    <td>Nicola Müller (15 min)</td>
-    <td rowspan="5">LAB42, L3.36</td>
-  </tr>
-  <tr>
+    <td rowspan="4">14:15-15:45</td>
+    <td rowspan="4">ML and LLMs in Planning</td>
     <td>Symmetry Aware Transformer Training for Automated Planning</td>
     <td>Markus Fritzsche (20 min)</td>
+    <td rowspan="4">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>LLM-Generated Heuristics for Classical Planning</td>
@@ -195,8 +191,8 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Jörg Hoffmann (15 min)</td>
   </tr>
   <tr>
-    <td>Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs</td>
-    <td>Rebecca Eifler (15 min)</td>
+    <td>Language interaction with planning based agent</td>
+    <td>Martin Funkquist (15 min)</td>
   </tr>
   <tr>
     <td>15:45-16:15</td>
@@ -204,15 +200,11 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
-    <td rowspan="3">16:15-17:45</td>
-    <td rowspan="3">Other Topics</td>
-    <td>Language interaction with planning based agent</td>
-    <td>Martin Funkquist (15 min)</td>
-    <td rowspan="3">LAB42, L3.36</td>
-  </tr>
-  <tr>
+    <td rowspan="2">16:15-17:45</td>
+    <td rowspan="2">Other Topics</td>
     <td>Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning</td>
-    <td>Maurice Dekker (15 min) </td>
+    <td>Maurice Dekker (15 min)</td>
+    <td rowspan="2">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>Explainable Planning</td>

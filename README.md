@@ -176,11 +176,11 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>Cafe Neo</td>
   </tr>
   <tr>
-    <td rowspan="4">14:15-15:45</td>
-    <td rowspan="4">ML and LLMs in Planning</td>
+    <td rowspan="5">14:15-15:45</td>
+    <td rowspan="5">ML and LLMs in Planning</td>
     <td>Symmetry Aware Transformer Training for Automated Planning</td>
     <td>Markus Fritzsche (20 min)</td>
-    <td rowspan="4">LAB42, L3.36</td>
+    <td rowspan="5">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>LLM-Generated Heuristics for Classical Planning</td>
@@ -193,6 +193,10 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
   <tr>
     <td>Language interaction with planning based agent</td>
     <td>Martin Funkquist (15 min)</td>
+  </tr>
+  <tr>
+    <td>Evaluting Correctness and Completeness of LLM-Generated Planning Models with Minimal Synchronized Information</td>
+    <td>Elliot Gestrin (15 min)</td>
   </tr>
   <tr>
     <td>15:45-16:15</td>

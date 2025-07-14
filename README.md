@@ -34,11 +34,11 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td>LAB42, L3.36</td>
   </tr>
   <tr>
-    <td rowspan="3">9:45-11:15</td>
-    <td rowspan="3">Heuristics for Classical Planning I</td>
+    <td rowspan="4">9:45-11:15</td>
+    <td rowspan="4">Heuristics for Classical Planning I</td>
     <td>Computing all orders for Saturated Cost Partitioning</td>
     <td>Paul Höft (30 min)</td>
-    <td rowspan="3">LAB42, L3.36</td>
+    <td rowspan="4">LAB42, L3.36</td>
   </tr>
   <tr>
     <td>Abstraction Heuristics for Classical Planning Tasks with Conditional Effects</td>
@@ -47,6 +47,10 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
   <tr>
     <td>Everything is not Allowed: Constrained Cartesian Abstractions for Optimal Classical Planning</td>
     <td>Martín Pozo (20 min)</td>
+  </tr>
+  <tr>
+    <td>Finding Plans and Heuristics with Spectral Graph Theory</td>
+    <td>Johannes Schmalz (15 min)</td>
   </tr>
   <tr>
     <td>11:15-11:45</td>

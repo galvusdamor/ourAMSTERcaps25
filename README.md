@@ -29,7 +29,7 @@ Our sessions are held in [LAB42](https://lab42.uva.nl/).
     <td colspan="5"><strong>Wednesday July 16</strong></td>
   </tr>
   <tr>
-    <td>9:14-9:45</td>
+    <td>9:15-9:45</td>
     <td colspan="3">Welcome and Introduction</td>
     <td>LAB42, L3.36</td>
   </tr>
